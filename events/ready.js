@@ -2,10 +2,10 @@ module.exports = (client) => {
   console.log("[Discord API]: Logged In As " + client.user.tag);
 
   const statusList = [
-    `Watching AGM | -help`,
-    `Around with Music | -help`,
-    `Music for YOU! | -help`,
-    `Music with love <3 | -help`
+    `Watching AGM | +help`,
+    `Around with Music | +help`,
+    `Music for YOU! | +help`,
+    `Music with love <3 | +help`
   ]
   let index = 0;
   setInterval(() => {
