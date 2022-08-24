@@ -1,7 +1,7 @@
 {
-  "name": "AGM-Stereo-2",
+  "name": "Discord-Music-Bot",
   "version": "2.0.0",
-  "description": "DiscordJS Music Bot for AGM",
+  "description": "DiscordJS Music Bot",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
